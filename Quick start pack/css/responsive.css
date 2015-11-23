@@ -1,0 +1,283 @@
+@media (min-width: 1200px) {
+
+
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+
+
+/* =========start portfolio========== */
+.single_portfolio {
+ width: 300px;
+ margin-top: -50px;
+}
+.portfolio-item img {
+  width: 100%;
+}
+.port-caption {
+  height: 255px;
+}
+.port-caption2 {
+  height: 255px;
+}
+.content {
+  margin-bottom: 50px;
+  color:red;
+}
+/* ==================contact_area=================== */
+
+.touch p {
+  padding-right: 136px;
+}
+.carousel-item p {
+  padding: 18px 257px;
+  color: red;
+}
+.fa.fa-angle-left {
+  margin-left: 56px;
+ 
+}
+.fa.fa-angle-right {
+  margin-right: 56px;
+ 
+}
+}
+@media (min-width: 768px) and (max-width: 991px) {
+
+  
+/* =========start portfolio============ */ 
+.single_portfolio {
+  height: 220px;
+  width: 230px;
+  margin-top: -24px;
+}
+.portfolio-item img {
+  width: 100%;
+}
+.port-caption {
+  height: 196px;
+}
+.port-caption2 {
+  height: 196px;
+}
+/* =============start service=================== */
+.content {
+  margin-bottom:20px;
+  color:blue;
+}
+.content h1{
+	font-size:34px;
+}
+.btn-default{
+	font-size: 18px;
+	width: 146px;
+}
+/* ===================start contact_area================ */
+.email_area {
+ float:none; 
+}
+input[type="text"] {
+  border: medium none;
+  border-radius: 3px;
+  height: 39px;
+  margin-bottom: 20px;
+  width: 260px;
+}
+textarea {
+  border: medium none;
+  border-radius: 3px;
+  height: 92px;
+  margin-top: 30px;
+  padding: 10px 0 0 20px;
+  width: 352px;
+}
+.btn-send {
+  background: none repeat scroll 0 0 #49cbcd;
+  border-radius: 3px;
+  color: #fff;
+  float: right;
+  font-size: 22px;
+  line-height: 21px;
+  margin-top: 30px;
+  width: 136px;
+}
+/* ====================start carousel_area================= */
+.carousel-item p {
+  padding: 18px 166px;
+  color: blue;
+}
+.fa.fa-angle-left {
+  margin-left: 56px;
+ 
+}
+.fa.fa-angle-right {
+  margin-right: 56px;
+ 
+}
+/* ==============table area============= */
+.pricing-table {
+  margin-top: 40px;
+  transition: all 1s ease 0s;
+  width: 418px;
+  margin-left: 156px;
+}
+}
+@media (min-width: 400px) and (max-width: 767px) {
+
+nav ul li:after{
+	background:none;
+}
+nav ul li{
+	padding:0px;
+	transition:all .5s;
+}
+nav ul li:hover{
+	margin-left:10px;
+}
+/* ======End nav_area========= */	
+/* =================start servce_area============ */
+.single-service p{	
+padding: 0 56px;
+}
+.content {
+  margin-bottom:0px;
+  color:red;
+}
+.content h1{
+	font-size:24px;
+}
+.btn-default{
+	font-size: 18px;
+	width: 146px;
+}
+
+/* ===================start contact_area================ */
+.email_area {
+ float:none;
+margin-top: 50px; 
+}
+input[type="text"] {
+  border: medium none;
+  border-radius: 3px;
+  height: 39px;
+  float:none;
+  margin-bottom: 20px;
+  width: 260px;
+}
+textarea {
+  border: medium none;
+  border-radius: 3px;
+  height: 92px;
+  margin-top: 30px;
+  padding: 10px 0 0 20px;
+  width: 352px;
+}
+.btn-send {
+  background: none repeat scroll 0 0 #49cbcd;
+  border-radius: 3px;
+  color: #fff;
+  float: none;
+  font-size: 22px;
+  line-height: 21px;
+  margin-top: 30px;
+  width: 136px;
+}
+/* ====================start carousel_area================= */
+.carousel-item p {
+  padding: 18px 16px;
+  color: green;
+}
+.fa.fa-angle-left {
+  margin-left: 32px;
+ 
+}
+.fa.fa-angle-right {
+  margin-right: 16px;
+ 
+}
+
+/* ==============table area============= */
+.pricing-table {
+  margin-top: 40px;
+  transition: all 1s ease 0s;
+  width: 100%;
+  
+}
+.price-nav ul li {
+  color: #000;
+  
+}
+}
+@media (max-width: 400px) {
+
+	nav ul li:after{
+	background:none;
+}
+nav ul li{
+	padding:0px;
+	transition:all .5s;
+}	
+nav ul li:hover{
+	margin-left:10px;
+}
+/* ======End nav_area========= */
+
+/* ===================start contact_area================ */
+.email_area {
+ float:none; 
+ margin-top: 50px;
+}
+input[type="text"] {
+  border: medium none;
+  border-radius: 3px;
+  height: 39px;
+  float:none;
+  margin-bottom: 20px;
+  width: 260px;
+}
+textarea {
+  border: medium none;
+  border-radius: 3px;
+  height: 80px;
+  margin-top: 30px;
+  padding: 10px 0 0 20px;
+  width:261px;
+}
+.btn-send {
+  background: none repeat scroll 0 0 #49cbcd;
+  border-radius: 3px;
+  color: #fff;
+  float: none;
+  font-size: 22px;
+  line-height: 21px;
+  margin-top: 30px;
+  width: 136px;
+}
+
+/* ====================start carousel_area================= */
+.carousel-item p {
+  padding: 18px 16px;
+  color: green;
+}
+.fa.fa-angle-left {
+  margin-left: 32px;
+ 
+}
+.fa.fa-angle-right {
+  margin-right: 16px;
+ 
+}
+.carousel-item h1 {
+  font-size: 28px;
+}
+.carousel-item h3 {
+  font-size: 19px;
+}
+
+/* ==============table area============= */
+.pricing-table {
+  margin-top: 40px;
+  transition: all 1s ease 0s;
+  width: 100%;
+  
+}
+}

@@ -1,0 +1,19 @@
+.owl-carousel .owl-controls{
+	position: absolute;
+	top: 50%;
+	margin-top: -36px;
+	width:100%;
+}
+.owl-carousel .owl-controls .owl-buttons div{
+	display: inline-block;
+	color:#485460;
+}
+.owl-carousel .owl-controls .owl-buttons div.owl-prev{
+	font-size: 53px;
+	margin-left: -60px;
+}
+.owl-carousel .owl-controls .owl-buttons div.owl-next{
+	font-size: 53px;
+	position: absolute;
+	right: -45px;
+}
